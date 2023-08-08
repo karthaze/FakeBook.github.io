@@ -324,7 +324,7 @@ nav{
 
 .write-post-container{
     width: 100%;
-    background: var(--body-color);
+    background: var(--bg-color);
     border-radius: 6px;
     padding: 20px;
     color: #626262;
@@ -386,7 +386,7 @@ nav{
 
 .post-container{
     width: 100%;
-    background: var(--body-color);
+    background: var(--bg-color);
     border-radius: 6px;
     padding: 20px;
     color: #626262;
